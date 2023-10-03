@@ -40,6 +40,10 @@ automl
  <img width="878" alt="image" src="https://github.com/asmitaece88/azure_ml/assets/45303929/d337c5d1-0bdc-4f40-a9ab-3456c7942b79">
  <img width="700" alt="image" src="https://github.com/asmitaece88/azure_ml/assets/45303929/11afbe2d-5172-4bb8-a4ce-e791d31aefc5">
  
+# deploy the chat app in azure 
+<img width="677" alt="image" src="https://github.com/asmitaece88/azure_ml/assets/45303929/e0c0158a-e374-4550-ad7d-1ea5d7d80ad6">
+
+# launch web app 
 
 
  
