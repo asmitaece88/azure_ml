@@ -30,6 +30,15 @@ automl
 # to query , in index , try a query like the below :
 <img width="916" alt="image" src="https://github.com/asmitaece88/Machine_Deep_learning/assets/45303929/cef20eb4-e15a-418d-9bcc-949a3ab15ff7">
 
- ## next go to  azure open ai , and create a deployment and 
+ ## next go to  azure open ai , and create a deployment a under azure open ai playground  and cerate a gpt-turbo deployment model
+ <img width="881" alt="image" src="https://github.com/asmitaece88/azure_ml/assets/45303929/b74db9e8-4bda-4a77-b4f5-823502f24eb2">
+
+ # next go to azure playground---> chat playground  , click on add data source , and  select azure cognitive service 
+ <img width="755" alt="image" src="https://github.com/asmitaece88/azure_ml/assets/45303929/854334c4-f387-477c-91b9-4c7eab5da8b1">
+
+ # aftre data has been added , start chatting in azure openai playrground--> chat 
+ 
+
+
 
 
