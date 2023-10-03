@@ -19,6 +19,8 @@ automl
 ## generative ai use cases using azure open ai 
 # code to  index a  file in azure open ai index present in azure cognitive search  service , in portal.azure.com
 
+https://github.com/asmitaece88/azure_ml/blob/main/generative_ai/azure_open_ai/indexing_py.py
+
 # after running the above code , we  will get to see the following :
 
 # data set 
