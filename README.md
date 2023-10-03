@@ -37,6 +37,11 @@ automl
  <img width="755" alt="image" src="https://github.com/asmitaece88/azure_ml/assets/45303929/854334c4-f387-477c-91b9-4c7eab5da8b1">
 
  # aftre data has been added , start chatting in azure openai playrground--> chat 
+ <img width="878" alt="image" src="https://github.com/asmitaece88/azure_ml/assets/45303929/d337c5d1-0bdc-4f40-a9ab-3456c7942b79">
+ <img width="700" alt="image" src="https://github.com/asmitaece88/azure_ml/assets/45303929/11afbe2d-5172-4bb8-a4ce-e791d31aefc5">
+ 
+
+
  
 
 
