@@ -1,6 +1,7 @@
 ## script to upload  files to azure blob/storage container 
 
 ## post executing script blob_files.py, 
+https://github.com/asmitaece88/azure_ml/blob/main/generative_ai/langchain_withazure_cogtive_servce_chatbot/blob.py
 <img width="933" alt="image" src="https://github.com/asmitaece88/azure_ml/assets/45303929/bb41d1ce-88f9-4687-9ab7-8bf89f75a4e2">
  
  ## next  create azure cognitive search service 
