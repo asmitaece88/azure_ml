@@ -22,8 +22,10 @@ https://github.com/asmitaece88/azure_ml/blob/main/generative_ai/indexing_file_us
 
 # readme with documentation of steps with screenshots :
 https://github.com/asmitaece88/azure_ml/blob/main/generative_ai/indexing_file_using_azure_open_ai/read_me.md
-
-
+# 2a)code to upload a file ,from local to azure blob programatically 
+https://github.com/asmitaece88/azure_ml/blob/main/generative_ai/langchain_withazure_cogtive_servce_chatbot/blob.py
+# 2b) code to index a file taking from azure blob , to azure cognitive service - , by programatically creating an index 
+https://github.com/asmitaece88/azure_ml/blob/main/generative_ai/langchain_withazure_cogtive_servce_chatbot/azure_cognitive_search_service_1.py
  
 
 
